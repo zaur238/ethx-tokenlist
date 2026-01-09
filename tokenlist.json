@@ -1,0 +1,19 @@
+{
+  "name": "ETHX Token List",
+  "timestamp": "2026-01-09T22:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x84282eB72Ec2D47c9f418397dB849947c23a7e32",
+      "name": "ETHX",
+      "symbol": "ETHX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/zaur238/ethx-tokenlist/main/logo.png"
+    }
+  ]
+}
